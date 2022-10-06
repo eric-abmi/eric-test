@@ -2,4 +2,5 @@
 Eric test
 Andrew is in
 Nice!
-Edit from Github
+There is conflict in collaboration
+More text here
