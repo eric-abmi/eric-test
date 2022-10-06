@@ -7,3 +7,4 @@ More text here=======
 Edit from Github
 ok
 
+conflicts for everybody!
